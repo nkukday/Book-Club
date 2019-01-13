@@ -17,6 +17,7 @@ Stay hungry, stay foolish. - Steve Jobs
 
 
 
+
 ### Game Changers
 
 - [Steve Jobs by Walter Isaacson](https://www.amazon.com/dp/B004W2UBYW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
@@ -27,7 +28,6 @@ Stay hungry, stay foolish. - Steve Jobs
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future by Ashlee Vance](https://www.amazon.com/dp/B00KVI76ZS/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 
-
 ### Humorous
 
 - [Bossypants by Tina Fey](https://www.amazon.com/dp/B0047Y0FGY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
@@ -35,7 +35,6 @@ Stay hungry, stay foolish. - Steve Jobs
 - [Born a Crime: Stories from a South African Childhood by Trevor Noah](https://www.amazon.com/dp/B01DHWACVY/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Let's Pretend This Never Happened by Jenny Lawson](https://www.amazon.com/dp/B0065S8R38/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Robin by Dave Itzkoff](https://www.amazon.com/dp/B076B17NZP/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-
 
 
 ### Misfits
@@ -48,7 +47,6 @@ Stay hungry, stay foolish. - Steve Jobs
 - [The Autobiography of Malcolm X by MALCOLM X and M. S. Handler](https://www.amazon.com/dp/B013ZNNX5C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [The Story of My Life by Helen Keller and Candace Ward](https://www.amazon.com/dp/B00A73BIN8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Hidden Figures: The American Dream and the Untold Story of the Black Women Mathematicians Who Helped Win the Space Race by Margot Lee Shetterly](https://www.amazon.com/dp/B0166JFFD0/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-
 
 
 ### Doing Different
@@ -83,7 +81,6 @@ Stay hungry, stay foolish. - Steve Jobs
  - [On Immunity by Eula Biss](https://www.amazon.com/dp/B00KUY4D7W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
 
-
 ### Perception paradox
 
 - [To Kill A Mockingbird by Harper Lee](https://www.amazon.com/dp/B00K0OI42W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
@@ -91,7 +88,9 @@ Stay hungry, stay foolish. - Steve Jobs
 - [All the President's Men by Carl Bernstein and Bob Woodward](https://www.amazon.com/All-Presidents-Men-Bob-Woodward-ebook/dp/B000SEOIDS)
 - [Catch 22 by Joseph Heller](https://www.amazon.com/dp/B0048WQDIE/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Moneyball by Michael Lewis](https://www.amazon.com/dp/B000RH0C8G/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
-- [The Hitchhiker's Guide to the Galaxy by Douglas Adams](https://www.amazon.com/dp/B000XUBC2C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
+
+
+### Defying Doom
 - [The Book Thief by Markus Zusak](https://www.amazon.com/dp/B000XUBFE2/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [The Diary of a Young Girl by Anne Frank](https://www.amazon.com/dp/B07HKHX4J6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 
@@ -101,6 +100,7 @@ Stay hungry, stay foolish. - Steve Jobs
 - [Harry Potter by J.K.Rowling](https://www.amazon.com/Harry-Potter-Complete-Collection-1-7-ebook/dp/B01B3DIPMW)
 - [Lord of the Rings by J.R.R. Tolkien](https://www.amazon.com/dp/B007978OY6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Game of Thrones by George R. R. Martin](https://www.amazon.com/George-Martins-Thrones-5-Book-Boxed-ebook/dp/B00957T6X6)
+- [The Hitchhiker's Guide to the Galaxy by Douglas Adams](https://www.amazon.com/dp/B000XUBC2C/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [The Hunger Games by Suzanne Collins](https://www.amazon.com/dp/B002MQYOFW/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [Inkheart by Cornelia Funke](https://www.amazon.com/dp/B005OBBV44/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 - [The Alchemyst by Michael Scott](https://www.amazon.com/dp/B000SCHBGQ/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
